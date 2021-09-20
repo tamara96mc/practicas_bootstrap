@@ -1,0 +1,45 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(141, 145, 145);
+
+}
+
+.container{
+
+  
+}
+
+.row{
+
+    background-color: rgb(216, 216, 215);
+}
+
+body > div:nth-child(3){
+
+    background-color: rgb(35, 123, 182);
+}
+
+#logo {
+
+    width: 30%;
+    height: 30%;
+    
+}
+
+.buscador{
+
+    background-color: rgb(255, 255, 255);
+    border-radius: 0.5rem;
+}
+
+.texto_buscador{
+    border: 0px solid rgb(255, 255, 255);
+
+}
+
+li{
+    padding: 1rem;
+}

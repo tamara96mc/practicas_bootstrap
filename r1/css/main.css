@@ -1,0 +1,48 @@
+.body{
+
+    background-color: black;
+    /* background-image: url("../img/fondo.jpg");
+    background-repeat: no-repeat; */
+}
+
+.container{
+box-sizing: border-box;
+font-size: 16px;
+height:620px;
+margin-top:2rem;
+
+}
+
+.campos{
+    background-color: rgb(214, 230, 224);
+}
+
+.rs{
+
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 2rem;
+
+}
+
+.rs >button{
+
+    margin: 0.5rem;
+    border: 1px solid rgb(255, 255, 255);
+}
+
+.info{
+margin: 2rem;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+img{
+
+    width: 30%;
+    height: 55%;
+    padding: 0%;
+}
